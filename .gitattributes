@@ -1,0 +1,8 @@
+# Normalize all text files and preserve consistent line endings
+* text=auto
+
+# Ensure binary files are not modified by Git's text conversions
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
