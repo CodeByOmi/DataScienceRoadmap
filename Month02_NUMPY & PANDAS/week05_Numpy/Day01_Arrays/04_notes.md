@@ -15,7 +15,7 @@ size → total elements
 4. Indexing:
 arr[0] → first element
 arr[-1] → last element
-
+ 
 5. Types:
 1D Array
 2D Array
