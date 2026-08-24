@@ -2,8 +2,10 @@ import pandas as pd
 
 df = pd.read_csv("Month02_NUMPY & PANDAS/week07_pandas_foundation/data/gym_members.csv")
 
+
 #1 filtering
 print(df["Age"] > 30)
+
 
 print(df[df["Age"] > 30])
 
