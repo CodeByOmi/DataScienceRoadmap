@@ -10,32 +10,32 @@ clean_df.loc[5, "Age"] = None
 clean_df.loc[10, "Weight_kg"] = None
 clean_df.loc[15, "Membership"] = None
 
-# print(clean_df.isna().sum())
+print(clean_df.isna().sum())
 
-# print(clean_df.isna().sum().sum())
+print(clean_df.isna().sum().sum())
 
-# print(clean_df.columns[clean_df.isna().any()])
+print(clean_df.columns[clean_df.isna().any()])
 
 
 
 # remove missing values
-# print(clean_df.dropna())
+print(clean_df.dropna())
 
-# print(clean_df.dropna(subset=["Membership"]))
+print(clean_df.dropna(subset=["Membership"]))
 
-# print(clean_df.dropna(subset=["Age","Weight_kg"]))
+print(clean_df.dropna(subset=["Age","Weight_kg"]))
 
 
 
 
 #3 replacing missing vLUES
 
-# clean_df["Age"] = clean_df["Age"].fillna(clean_df["Age"].median())
+clean_df["Age"] = clean_df["Age"].fillna(clean_df["Age"].median())
 
-# clean_df["Weight_kg"] = clean_df["Weight_kg"].fillna((clean_df["Weight_kg"].mean()))
+clean_df["Weight_kg"] = clean_df["Weight_kg"].fillna((clean_df["Weight_kg"].mean()))
 
-# clean_df["Membership"] = clean_df["Membership"].fillna(clean_df["Membership"].mode()[0])
-# print(clean_df)
+clean_df["Membership"] = clean_df["Membership"].fillna(clean_df["Membership"].mode()[0])
+print(clean_df)
 
 
 
