@@ -14,7 +14,7 @@ Member_ID,Name,Age,Gender,Height_cm,Weight_kg,Membership,City,Months_Member
 13,Sahil,35,Female,170,57.4,Premium,Nashik,36
 14,Varun,25,Male,175,87.9,Basic,Mumbai,3
 15,Nikhil,28,Female,180,62.0,Basic,Thane,21
-16,Aniket,24,Male,186,67.8,VIP,Nagpur,10
+16,Aniket,32,Male,186,67.8,VIP,Nagpur,10
 17,Om,26,Female,163,61.1,VIP,Thane,17
 18,Raj,36,Male,182,90.4,Premium,Nashik,15
 19,Manish,22,Female,187,72.2,Basic,Pune,10
