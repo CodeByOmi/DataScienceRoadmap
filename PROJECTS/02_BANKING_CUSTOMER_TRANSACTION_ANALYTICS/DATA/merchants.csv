@@ -1,0 +1,801 @@
+merchant_id,merchant_name,category,country
+1,Blue Market,transport,CA
+2,Green Market,clothing,NZ
+3,Iron Market,entertainment,AU
+4,North Market,health,SI
+5,Silver Market,restaurants,GB
+6,Copper Market,restaurants,CA
+7,Amber Market,groceries,US
+8,Cedar Market,utilities,GB
+9,Falcon Market,clothing,IE
+10,Harbor Market,restaurants,FR
+11,Juniper Market,groceries,PT
+12,Kestrel Market,transport,CA
+13,Larkin Market,transport,US
+14,Maple Market,restaurants,AU
+15,Onyx Market,health,SE
+16,Quarry Market,entertainment,FR
+17,Rowan Market,restaurants,NZ
+18,Summit Market,restaurants,US
+19,Thistle Market,groceries,IE
+20,Vector Market,restaurants,DE
+21,Blue Supply,travel,GB
+22,Green Supply,utilities,DE
+23,Iron Supply,groceries,AU
+24,North Supply,electronics,US
+25,Silver Supply,utilities,DE
+26,Copper Supply,restaurants,FR
+27,Amber Supply,clothing,CA
+28,Cedar Supply,home,FI
+29,Falcon Supply,entertainment,AU
+30,Harbor Supply,entertainment,IE
+31,Juniper Supply,entertainment,NL
+32,Kestrel Supply,restaurants,SE
+33,Larkin Supply,electronics,FR
+34,Maple Supply,restaurants,IT
+35,Onyx Supply,groceries,IT
+36,Quarry Supply,entertainment,NZ
+37,Rowan Supply,transport,AU
+38,Summit Supply,home,CA
+39,Thistle Supply,transport,PT
+40,Vector Supply,electronics,IT
+41,Blue Foods,restaurants,GB
+42,Green Foods,transport,DE
+43,Iron Foods,health,CA
+44,North Foods,restaurants,FI
+45,Silver Foods,travel,NL
+46,Copper Foods,transport,IT
+47,Amber Foods,transport,ES
+48,Cedar Foods,restaurants,CA
+49,Falcon Foods,groceries,GB
+50,Harbor Foods,utilities,NL
+51,Juniper Foods,utilities,NZ
+52,Kestrel Foods,restaurants,NZ
+53,Larkin Foods,clothing,IT
+54,Maple Foods,home,DE
+55,Onyx Foods,groceries,US
+56,Quarry Foods,home,GB
+57,Rowan Foods,electronics,IT
+58,Summit Foods,restaurants,FR
+59,Thistle Foods,health,PT
+60,Vector Foods,groceries,DE
+61,Blue Transit,groceries,IE
+62,Green Transit,groceries,US
+63,Iron Transit,restaurants,NL
+64,North Transit,utilities,NZ
+65,Silver Transit,clothing,NL
+66,Copper Transit,clothing,DE
+67,Amber Transit,groceries,IE
+68,Cedar Transit,groceries,US
+69,Falcon Transit,restaurants,FI
+70,Harbor Transit,transport,DK
+71,Juniper Transit,entertainment,PT
+72,Kestrel Transit,groceries,IE
+73,Larkin Transit,home,CA
+74,Maple Transit,clothing,DK
+75,Onyx Transit,home,DE
+76,Quarry Transit,groceries,ES
+77,Rowan Transit,restaurants,AU
+78,Summit Transit,home,SE
+79,Thistle Transit,groceries,FR
+80,Vector Transit,groceries,NZ
+81,Blue Energy,groceries,AU
+82,Green Energy,transport,CA
+83,Iron Energy,travel,AU
+84,North Energy,home,GB
+85,Silver Energy,restaurants,GB
+86,Copper Energy,home,US
+87,Amber Energy,restaurants,AU
+88,Cedar Energy,restaurants,GB
+89,Falcon Energy,entertainment,FI
+90,Harbor Energy,restaurants,ES
+91,Juniper Energy,groceries,NO
+92,Kestrel Energy,travel,ES
+93,Larkin Energy,electronics,US
+94,Maple Energy,home,AU
+95,Onyx Energy,travel,SI
+96,Quarry Energy,restaurants,NZ
+97,Rowan Energy,groceries,NZ
+98,Summit Energy,groceries,SI
+99,Thistle Energy,groceries,AU
+100,Vector Energy,restaurants,NL
+101,Blue Media,restaurants,DK
+102,Green Media,health,SI
+103,Iron Media,home,US
+104,North Media,utilities,GB
+105,Silver Media,groceries,CA
+106,Copper Media,clothing,AU
+107,Amber Media,groceries,US
+108,Cedar Media,clothing,IE
+109,Falcon Media,clothing,IE
+110,Harbor Media,utilities,IE
+111,Juniper Media,restaurants,US
+112,Kestrel Media,groceries,GB
+113,Larkin Media,entertainment,US
+114,Maple Media,transport,PT
+115,Onyx Media,restaurants,US
+116,Quarry Media,entertainment,IT
+117,Rowan Media,clothing,US
+118,Summit Media,groceries,PT
+119,Thistle Media,groceries,AU
+120,Vector Media,groceries,FR
+121,Blue Apparel,home,IE
+122,Green Apparel,transport,FR
+123,Iron Apparel,groceries,DK
+124,North Apparel,electronics,US
+125,Silver Apparel,restaurants,US
+126,Copper Apparel,health,GB
+127,Amber Apparel,entertainment,GB
+128,Cedar Apparel,clothing,SI
+129,Falcon Apparel,transport,US
+130,Harbor Apparel,electronics,DE
+131,Juniper Apparel,groceries,CA
+132,Kestrel Apparel,groceries,CA
+133,Larkin Apparel,entertainment,FI
+134,Maple Apparel,electronics,AU
+135,Onyx Apparel,transport,DE
+136,Quarry Apparel,groceries,GB
+137,Rowan Apparel,restaurants,GB
+138,Summit Apparel,home,NL
+139,Thistle Apparel,restaurants,DE
+140,Vector Apparel,entertainment,US
+141,Blue Health,groceries,NZ
+142,Green Health,utilities,SI
+143,Iron Health,utilities,FR
+144,North Health,electronics,US
+145,Silver Health,groceries,CA
+146,Copper Health,travel,FR
+147,Amber Health,restaurants,US
+148,Cedar Health,health,FR
+149,Falcon Health,transport,DE
+150,Harbor Health,groceries,US
+151,Juniper Health,groceries,GB
+152,Kestrel Health,health,CA
+153,Larkin Health,groceries,US
+154,Maple Health,electronics,US
+155,Onyx Health,utilities,GB
+156,Quarry Health,entertainment,GB
+157,Rowan Health,groceries,AU
+158,Summit Health,restaurants,AU
+159,Thistle Health,groceries,NO
+160,Vector Health,groceries,GB
+161,Blue Travel,home,NZ
+162,Green Travel,utilities,IE
+163,Iron Travel,restaurants,NO
+164,North Travel,groceries,DE
+165,Silver Travel,entertainment,GB
+166,Copper Travel,restaurants,US
+167,Amber Travel,restaurants,US
+168,Cedar Travel,entertainment,ES
+169,Falcon Travel,transport,GB
+170,Harbor Travel,health,US
+171,Juniper Travel,electronics,US
+172,Kestrel Travel,utilities,CA
+173,Larkin Travel,electronics,FR
+174,Maple Travel,groceries,CA
+175,Onyx Travel,entertainment,US
+176,Quarry Travel,health,GB
+177,Rowan Travel,clothing,NO
+178,Summit Travel,groceries,NZ
+179,Thistle Travel,entertainment,CA
+180,Vector Travel,entertainment,US
+181,Blue Electronics,home,NZ
+182,Green Electronics,entertainment,PT
+183,Iron Electronics,utilities,SE
+184,North Electronics,utilities,IE
+185,Silver Electronics,restaurants,IT
+186,Copper Electronics,transport,GB
+187,Amber Electronics,electronics,US
+188,Cedar Electronics,utilities,DK
+189,Falcon Electronics,health,US
+190,Harbor Electronics,groceries,FR
+191,Juniper Electronics,transport,IT
+192,Kestrel Electronics,utilities,NO
+193,Larkin Electronics,transport,NO
+194,Maple Electronics,transport,CA
+195,Onyx Electronics,transport,DE
+196,Quarry Electronics,groceries,AU
+197,Rowan Electronics,transport,US
+198,Summit Electronics,transport,US
+199,Thistle Electronics,health,US
+200,Vector Electronics,clothing,IT
+201,Blue Interiors,transport,GB
+202,Green Interiors,utilities,IE
+203,Iron Interiors,home,IT
+204,North Interiors,clothing,CA
+205,Silver Interiors,entertainment,CA
+206,Copper Interiors,groceries,US
+207,Amber Interiors,clothing,DK
+208,Cedar Interiors,transport,US
+209,Falcon Interiors,groceries,AU
+210,Harbor Interiors,health,US
+211,Juniper Interiors,transport,CA
+212,Kestrel Interiors,restaurants,US
+213,Larkin Interiors,health,US
+214,Maple Interiors,restaurants,GB
+215,Onyx Interiors,groceries,AU
+216,Quarry Interiors,restaurants,IT
+217,Rowan Interiors,groceries,NL
+218,Summit Interiors,groceries,CA
+219,Thistle Interiors,transport,SE
+220,Vector Interiors,utilities,US
+221,Blue Coffee,groceries,NZ
+222,Green Coffee,travel,NL
+223,Iron Coffee,restaurants,NL
+224,North Coffee,home,FR
+225,Silver Coffee,transport,IE
+226,Copper Coffee,transport,FI
+227,Amber Coffee,travel,GB
+228,Cedar Coffee,groceries,CA
+229,Falcon Coffee,utilities,DE
+230,Harbor Coffee,restaurants,GB
+231,Juniper Coffee,utilities,SI
+232,Kestrel Coffee,restaurants,NZ
+233,Larkin Coffee,restaurants,CA
+234,Maple Coffee,transport,DE
+235,Onyx Coffee,groceries,FR
+236,Quarry Coffee,home,NZ
+237,Rowan Coffee,utilities,FI
+238,Summit Coffee,entertainment,AU
+239,Thistle Coffee,utilities,DK
+240,Vector Coffee,transport,NL
+241,Blue Bakery,groceries,PT
+242,Green Bakery,restaurants,SI
+243,Iron Bakery,health,US
+244,North Bakery,clothing,IT
+245,Silver Bakery,groceries,CA
+246,Copper Bakery,groceries,IE
+247,Amber Bakery,restaurants,NZ
+248,Cedar Bakery,restaurants,ES
+249,Falcon Bakery,utilities,IT
+250,Harbor Bakery,groceries,FR
+251,Juniper Bakery,restaurants,GB
+252,Kestrel Bakery,groceries,US
+253,Larkin Bakery,utilities,US
+254,Maple Bakery,groceries,FR
+255,Onyx Bakery,electronics,CA
+256,Quarry Bakery,health,FR
+257,Rowan Bakery,transport,FI
+258,Summit Bakery,entertainment,IE
+259,Thistle Bakery,entertainment,GB
+260,Vector Bakery,transport,NO
+261,Blue Fitness,groceries,GB
+262,Green Fitness,groceries,IT
+263,Iron Fitness,entertainment,GB
+264,North Fitness,transport,GB
+265,Silver Fitness,groceries,CA
+266,Copper Fitness,utilities,DE
+267,Amber Fitness,transport,GB
+268,Cedar Fitness,travel,NO
+269,Falcon Fitness,travel,FR
+270,Harbor Fitness,home,CA
+271,Juniper Fitness,travel,US
+272,Kestrel Fitness,electronics,US
+273,Larkin Fitness,health,US
+274,Maple Fitness,restaurants,IE
+275,Onyx Fitness,groceries,DK
+276,Quarry Fitness,entertainment,NZ
+277,Rowan Fitness,travel,CA
+278,Summit Fitness,groceries,US
+279,Thistle Fitness,groceries,NL
+280,Vector Fitness,travel,IE
+281,Blue Pharmacy,clothing,US
+282,Green Pharmacy,groceries,NL
+283,Iron Pharmacy,transport,DE
+284,North Pharmacy,groceries,CA
+285,Silver Pharmacy,groceries,DE
+286,Copper Pharmacy,restaurants,IE
+287,Amber Pharmacy,health,CA
+288,Cedar Pharmacy,transport,AU
+289,Falcon Pharmacy,transport,GB
+290,Harbor Pharmacy,entertainment,NO
+291,Juniper Pharmacy,clothing,DK
+292,Kestrel Pharmacy,groceries,AU
+293,Larkin Pharmacy,groceries,AU
+294,Maple Pharmacy,groceries,GB
+295,Onyx Pharmacy,electronics,GB
+296,Quarry Pharmacy,groceries,NL
+297,Rowan Pharmacy,health,FR
+298,Summit Pharmacy,clothing,FR
+299,Thistle Pharmacy,home,GB
+300,Vector Pharmacy,groceries,US
+301,Blue Garage,home,ES
+302,Green Garage,groceries,FR
+303,Iron Garage,restaurants,FR
+304,North Garage,groceries,IE
+305,Silver Garage,utilities,NL
+306,Copper Garage,groceries,IE
+307,Amber Garage,groceries,NZ
+308,Cedar Garage,groceries,CA
+309,Falcon Garage,entertainment,CA
+310,Harbor Garage,electronics,AU
+311,Juniper Garage,clothing,US
+312,Kestrel Garage,entertainment,IE
+313,Larkin Garage,groceries,US
+314,Maple Garage,restaurants,FR
+315,Onyx Garage,groceries,DE
+316,Quarry Garage,entertainment,US
+317,Rowan Garage,groceries,US
+318,Summit Garage,groceries,FR
+319,Thistle Garage,transport,IE
+320,Vector Garage,clothing,AU
+321,Blue Books,health,SE
+322,Green Books,transport,IE
+323,Iron Books,groceries,FR
+324,North Books,clothing,FI
+325,Silver Books,transport,US
+326,Copper Books,electronics,NL
+327,Amber Books,transport,DE
+328,Cedar Books,transport,NO
+329,Falcon Books,entertainment,SE
+330,Harbor Books,home,IT
+331,Juniper Books,utilities,AU
+332,Kestrel Books,restaurants,US
+333,Larkin Books,travel,ES
+334,Maple Books,groceries,AU
+335,Onyx Books,entertainment,AU
+336,Quarry Books,groceries,GB
+337,Rowan Books,travel,GB
+338,Summit Books,home,FI
+339,Thistle Books,groceries,DE
+340,Vector Books,groceries,AU
+341,Blue Hardware,clothing,US
+342,Green Hardware,transport,NZ
+343,Iron Hardware,clothing,US
+344,North Hardware,restaurants,US
+345,Silver Hardware,groceries,GB
+346,Copper Hardware,travel,IT
+347,Amber Hardware,groceries,FR
+348,Cedar Hardware,entertainment,FR
+349,Falcon Hardware,groceries,AU
+350,Harbor Hardware,restaurants,US
+351,Juniper Hardware,groceries,DE
+352,Kestrel Hardware,restaurants,US
+353,Larkin Hardware,health,FI
+354,Maple Hardware,utilities,SE
+355,Onyx Hardware,restaurants,US
+356,Quarry Hardware,transport,SI
+357,Rowan Hardware,electronics,US
+358,Summit Hardware,restaurants,DE
+359,Thistle Hardware,groceries,AU
+360,Vector Hardware,restaurants,AU
+361,Blue Market 2,restaurants,DK
+362,Green Market 2,transport,US
+363,Iron Market 2,transport,IE
+364,North Market 2,utilities,SI
+365,Silver Market 2,travel,US
+366,Copper Market 2,restaurants,NO
+367,Amber Market 2,utilities,CA
+368,Cedar Market 2,health,DK
+369,Falcon Market 2,transport,DE
+370,Harbor Market 2,electronics,AU
+371,Juniper Market 2,electronics,PT
+372,Kestrel Market 2,restaurants,NZ
+373,Larkin Market 2,travel,FR
+374,Maple Market 2,restaurants,US
+375,Onyx Market 2,health,IE
+376,Quarry Market 2,electronics,US
+377,Rowan Market 2,home,IT
+378,Summit Market 2,restaurants,IE
+379,Thistle Market 2,groceries,SE
+380,Vector Market 2,restaurants,SE
+381,Blue Supply 2,travel,FR
+382,Green Supply 2,home,FR
+383,Iron Supply 2,electronics,US
+384,North Supply 2,home,IT
+385,Silver Supply 2,home,AU
+386,Copper Supply 2,groceries,GB
+387,Amber Supply 2,travel,CA
+388,Cedar Supply 2,groceries,SI
+389,Falcon Supply 2,transport,US
+390,Harbor Supply 2,electronics,GB
+391,Juniper Supply 2,clothing,AU
+392,Kestrel Supply 2,electronics,US
+393,Larkin Supply 2,restaurants,SI
+394,Maple Supply 2,utilities,GB
+395,Onyx Supply 2,clothing,US
+396,Quarry Supply 2,health,US
+397,Rowan Supply 2,groceries,DE
+398,Summit Supply 2,transport,NO
+399,Thistle Supply 2,travel,NZ
+400,Vector Supply 2,transport,NZ
+401,Blue Foods 2,utilities,GB
+402,Green Foods 2,electronics,US
+403,Iron Foods 2,home,NL
+404,North Foods 2,groceries,NZ
+405,Silver Foods 2,health,CA
+406,Copper Foods 2,clothing,CA
+407,Amber Foods 2,health,ES
+408,Cedar Foods 2,electronics,ES
+409,Falcon Foods 2,electronics,NL
+410,Harbor Foods 2,health,GB
+411,Juniper Foods 2,electronics,AU
+412,Kestrel Foods 2,transport,GB
+413,Larkin Foods 2,health,DK
+414,Maple Foods 2,transport,CA
+415,Onyx Foods 2,home,IT
+416,Quarry Foods 2,utilities,DE
+417,Rowan Foods 2,transport,AU
+418,Summit Foods 2,restaurants,DK
+419,Thistle Foods 2,health,US
+420,Vector Foods 2,travel,IE
+421,Blue Transit 2,groceries,CA
+422,Green Transit 2,restaurants,US
+423,Iron Transit 2,groceries,DE
+424,North Transit 2,groceries,ES
+425,Silver Transit 2,utilities,US
+426,Copper Transit 2,groceries,DK
+427,Amber Transit 2,groceries,GB
+428,Cedar Transit 2,groceries,DE
+429,Falcon Transit 2,home,US
+430,Harbor Transit 2,utilities,GB
+431,Juniper Transit 2,entertainment,NO
+432,Kestrel Transit 2,groceries,NO
+433,Larkin Transit 2,restaurants,NL
+434,Maple Transit 2,groceries,FI
+435,Onyx Transit 2,restaurants,US
+436,Quarry Transit 2,groceries,ES
+437,Rowan Transit 2,restaurants,IT
+438,Summit Transit 2,entertainment,FR
+439,Thistle Transit 2,transport,IE
+440,Vector Transit 2,groceries,PT
+441,Blue Energy 2,restaurants,NL
+442,Green Energy 2,entertainment,NL
+443,Iron Energy 2,groceries,US
+444,North Energy 2,transport,PT
+445,Silver Energy 2,entertainment,SE
+446,Copper Energy 2,transport,DK
+447,Amber Energy 2,entertainment,IE
+448,Cedar Energy 2,groceries,FR
+449,Falcon Energy 2,electronics,NL
+450,Harbor Energy 2,groceries,FR
+451,Juniper Energy 2,travel,SE
+452,Kestrel Energy 2,restaurants,DE
+453,Larkin Energy 2,groceries,NO
+454,Maple Energy 2,utilities,GB
+455,Onyx Energy 2,electronics,FI
+456,Quarry Energy 2,transport,FR
+457,Rowan Energy 2,groceries,NZ
+458,Summit Energy 2,electronics,US
+459,Thistle Energy 2,utilities,AU
+460,Vector Energy 2,transport,SI
+461,Blue Media 2,electronics,IE
+462,Green Media 2,health,IT
+463,Iron Media 2,groceries,AU
+464,North Media 2,electronics,US
+465,Silver Media 2,clothing,US
+466,Copper Media 2,restaurants,AU
+467,Amber Media 2,entertainment,NL
+468,Cedar Media 2,groceries,SE
+469,Falcon Media 2,health,AU
+470,Harbor Media 2,groceries,GB
+471,Juniper Media 2,groceries,ES
+472,Kestrel Media 2,groceries,GB
+473,Larkin Media 2,utilities,CA
+474,Maple Media 2,utilities,AU
+475,Onyx Media 2,travel,US
+476,Quarry Media 2,groceries,US
+477,Rowan Media 2,transport,GB
+478,Summit Media 2,restaurants,GB
+479,Thistle Media 2,electronics,AU
+480,Vector Media 2,utilities,IE
+481,Blue Apparel 2,entertainment,US
+482,Green Apparel 2,groceries,US
+483,Iron Apparel 2,groceries,US
+484,North Apparel 2,travel,IT
+485,Silver Apparel 2,home,AU
+486,Copper Apparel 2,restaurants,CA
+487,Amber Apparel 2,home,DK
+488,Cedar Apparel 2,travel,DE
+489,Falcon Apparel 2,entertainment,US
+490,Harbor Apparel 2,transport,AU
+491,Juniper Apparel 2,clothing,CA
+492,Kestrel Apparel 2,health,SE
+493,Larkin Apparel 2,entertainment,AU
+494,Maple Apparel 2,groceries,US
+495,Onyx Apparel 2,restaurants,ES
+496,Quarry Apparel 2,home,SI
+497,Rowan Apparel 2,entertainment,NZ
+498,Summit Apparel 2,utilities,US
+499,Thistle Apparel 2,transport,US
+500,Vector Apparel 2,groceries,SI
+501,Blue Health 2,groceries,CA
+502,Green Health 2,travel,ES
+503,Iron Health 2,restaurants,US
+504,North Health 2,travel,US
+505,Silver Health 2,health,CA
+506,Copper Health 2,groceries,AU
+507,Amber Health 2,entertainment,CA
+508,Cedar Health 2,travel,FR
+509,Falcon Health 2,travel,SE
+510,Harbor Health 2,home,US
+511,Juniper Health 2,restaurants,DE
+512,Kestrel Health 2,transport,AU
+513,Larkin Health 2,travel,IE
+514,Maple Health 2,home,US
+515,Onyx Health 2,travel,AU
+516,Quarry Health 2,groceries,IT
+517,Rowan Health 2,entertainment,FR
+518,Summit Health 2,restaurants,GB
+519,Thistle Health 2,health,GB
+520,Vector Health 2,transport,US
+521,Blue Travel 2,electronics,GB
+522,Green Travel 2,restaurants,US
+523,Iron Travel 2,groceries,FR
+524,North Travel 2,electronics,US
+525,Silver Travel 2,electronics,IE
+526,Copper Travel 2,health,AU
+527,Amber Travel 2,utilities,GB
+528,Cedar Travel 2,clothing,GB
+529,Falcon Travel 2,transport,DE
+530,Harbor Travel 2,transport,US
+531,Juniper Travel 2,entertainment,US
+532,Kestrel Travel 2,groceries,NO
+533,Larkin Travel 2,entertainment,NZ
+534,Maple Travel 2,clothing,DE
+535,Onyx Travel 2,restaurants,NZ
+536,Quarry Travel 2,utilities,GB
+537,Rowan Travel 2,restaurants,GB
+538,Summit Travel 2,health,NL
+539,Thistle Travel 2,health,IT
+540,Vector Travel 2,clothing,ES
+541,Blue Electronics 2,entertainment,NO
+542,Green Electronics 2,home,AU
+543,Iron Electronics 2,clothing,DE
+544,North Electronics 2,clothing,US
+545,Silver Electronics 2,transport,SE
+546,Copper Electronics 2,electronics,GB
+547,Amber Electronics 2,health,NZ
+548,Cedar Electronics 2,clothing,DE
+549,Falcon Electronics 2,health,IT
+550,Harbor Electronics 2,entertainment,IT
+551,Juniper Electronics 2,health,FR
+552,Kestrel Electronics 2,restaurants,US
+553,Larkin Electronics 2,electronics,AU
+554,Maple Electronics 2,clothing,NL
+555,Onyx Electronics 2,entertainment,PT
+556,Quarry Electronics 2,utilities,GB
+557,Rowan Electronics 2,travel,GB
+558,Summit Electronics 2,groceries,SE
+559,Thistle Electronics 2,groceries,US
+560,Vector Electronics 2,health,GB
+561,Blue Interiors 2,home,AU
+562,Green Interiors 2,clothing,NL
+563,Iron Interiors 2,transport,US
+564,North Interiors 2,utilities,GB
+565,Silver Interiors 2,groceries,PT
+566,Copper Interiors 2,transport,GB
+567,Amber Interiors 2,groceries,NL
+568,Cedar Interiors 2,groceries,DK
+569,Falcon Interiors 2,groceries,NL
+570,Harbor Interiors 2,health,DE
+571,Juniper Interiors 2,transport,DE
+572,Kestrel Interiors 2,health,SI
+573,Larkin Interiors 2,groceries,IT
+574,Maple Interiors 2,restaurants,US
+575,Onyx Interiors 2,restaurants,GB
+576,Quarry Interiors 2,groceries,DK
+577,Rowan Interiors 2,restaurants,GB
+578,Summit Interiors 2,health,NZ
+579,Thistle Interiors 2,groceries,US
+580,Vector Interiors 2,entertainment,DK
+581,Blue Coffee 2,entertainment,GB
+582,Green Coffee 2,health,NL
+583,Iron Coffee 2,groceries,CA
+584,North Coffee 2,groceries,NO
+585,Silver Coffee 2,groceries,US
+586,Copper Coffee 2,restaurants,IE
+587,Amber Coffee 2,groceries,NO
+588,Cedar Coffee 2,entertainment,DE
+589,Falcon Coffee 2,restaurants,NO
+590,Harbor Coffee 2,electronics,US
+591,Juniper Coffee 2,utilities,SI
+592,Kestrel Coffee 2,groceries,US
+593,Larkin Coffee 2,utilities,NL
+594,Maple Coffee 2,groceries,NL
+595,Onyx Coffee 2,groceries,SE
+596,Quarry Coffee 2,groceries,US
+597,Rowan Coffee 2,health,US
+598,Summit Coffee 2,groceries,NZ
+599,Thistle Coffee 2,electronics,NO
+600,Vector Coffee 2,transport,GB
+601,Blue Bakery 2,home,US
+602,Green Bakery 2,electronics,GB
+603,Iron Bakery 2,health,CA
+604,North Bakery 2,home,US
+605,Silver Bakery 2,transport,NL
+606,Copper Bakery 2,clothing,SI
+607,Amber Bakery 2,clothing,NZ
+608,Cedar Bakery 2,transport,NZ
+609,Falcon Bakery 2,home,US
+610,Harbor Bakery 2,home,AU
+611,Juniper Bakery 2,transport,US
+612,Kestrel Bakery 2,home,FI
+613,Larkin Bakery 2,transport,CA
+614,Maple Bakery 2,transport,IE
+615,Onyx Bakery 2,utilities,DE
+616,Quarry Bakery 2,utilities,US
+617,Rowan Bakery 2,transport,AU
+618,Summit Bakery 2,groceries,DK
+619,Thistle Bakery 2,restaurants,NL
+620,Vector Bakery 2,health,FI
+621,Blue Fitness 2,utilities,US
+622,Green Fitness 2,entertainment,IE
+623,Iron Fitness 2,restaurants,US
+624,North Fitness 2,groceries,NL
+625,Silver Fitness 2,transport,ES
+626,Copper Fitness 2,travel,US
+627,Amber Fitness 2,electronics,CA
+628,Cedar Fitness 2,transport,NZ
+629,Falcon Fitness 2,restaurants,DK
+630,Harbor Fitness 2,home,NZ
+631,Juniper Fitness 2,travel,IT
+632,Kestrel Fitness 2,groceries,US
+633,Larkin Fitness 2,health,GB
+634,Maple Fitness 2,clothing,GB
+635,Onyx Fitness 2,entertainment,NO
+636,Quarry Fitness 2,groceries,CA
+637,Rowan Fitness 2,home,US
+638,Summit Fitness 2,groceries,PT
+639,Thistle Fitness 2,groceries,SE
+640,Vector Fitness 2,groceries,FR
+641,Blue Pharmacy 2,entertainment,US
+642,Green Pharmacy 2,electronics,PT
+643,Iron Pharmacy 2,restaurants,US
+644,North Pharmacy 2,transport,CA
+645,Silver Pharmacy 2,groceries,US
+646,Copper Pharmacy 2,groceries,FR
+647,Amber Pharmacy 2,entertainment,NZ
+648,Cedar Pharmacy 2,entertainment,US
+649,Falcon Pharmacy 2,transport,AU
+650,Harbor Pharmacy 2,groceries,PT
+651,Juniper Pharmacy 2,restaurants,GB
+652,Kestrel Pharmacy 2,entertainment,GB
+653,Larkin Pharmacy 2,utilities,NZ
+654,Maple Pharmacy 2,electronics,GB
+655,Onyx Pharmacy 2,home,GB
+656,Quarry Pharmacy 2,utilities,US
+657,Rowan Pharmacy 2,restaurants,SE
+658,Summit Pharmacy 2,health,NZ
+659,Thistle Pharmacy 2,groceries,GB
+660,Vector Pharmacy 2,utilities,SI
+661,Blue Garage 2,groceries,DK
+662,Green Garage 2,electronics,SI
+663,Iron Garage 2,groceries,GB
+664,North Garage 2,utilities,US
+665,Silver Garage 2,home,CA
+666,Copper Garage 2,clothing,ES
+667,Amber Garage 2,groceries,US
+668,Cedar Garage 2,groceries,DE
+669,Falcon Garage 2,groceries,US
+670,Harbor Garage 2,electronics,IE
+671,Juniper Garage 2,entertainment,GB
+672,Kestrel Garage 2,groceries,US
+673,Larkin Garage 2,groceries,DE
+674,Maple Garage 2,travel,US
+675,Onyx Garage 2,clothing,AU
+676,Quarry Garage 2,transport,US
+677,Rowan Garage 2,entertainment,AU
+678,Summit Garage 2,groceries,NZ
+679,Thistle Garage 2,electronics,AU
+680,Vector Garage 2,utilities,SI
+681,Blue Books 2,health,DE
+682,Green Books 2,groceries,CA
+683,Iron Books 2,health,US
+684,North Books 2,travel,US
+685,Silver Books 2,transport,DE
+686,Copper Books 2,restaurants,CA
+687,Amber Books 2,transport,SE
+688,Cedar Books 2,restaurants,US
+689,Falcon Books 2,restaurants,US
+690,Harbor Books 2,utilities,GB
+691,Juniper Books 2,transport,SI
+692,Kestrel Books 2,groceries,US
+693,Larkin Books 2,groceries,FR
+694,Maple Books 2,health,SE
+695,Onyx Books 2,entertainment,DK
+696,Quarry Books 2,transport,GB
+697,Rowan Books 2,electronics,ES
+698,Summit Books 2,groceries,US
+699,Thistle Books 2,groceries,IE
+700,Vector Books 2,transport,IE
+701,Blue Hardware 2,groceries,PT
+702,Green Hardware 2,groceries,GB
+703,Iron Hardware 2,groceries,NO
+704,North Hardware 2,groceries,GB
+705,Silver Hardware 2,entertainment,FR
+706,Copper Hardware 2,travel,GB
+707,Amber Hardware 2,groceries,CA
+708,Cedar Hardware 2,electronics,NL
+709,Falcon Hardware 2,entertainment,IE
+710,Harbor Hardware 2,restaurants,PT
+711,Juniper Hardware 2,groceries,US
+712,Kestrel Hardware 2,transport,US
+713,Larkin Hardware 2,restaurants,NO
+714,Maple Hardware 2,groceries,GB
+715,Onyx Hardware 2,restaurants,GB
+716,Quarry Hardware 2,travel,GB
+717,Rowan Hardware 2,entertainment,NO
+718,Summit Hardware 2,groceries,CA
+719,Thistle Hardware 2,utilities,IT
+720,Vector Hardware 2,travel,NL
+721,Blue Market 3,clothing,FR
+722,Green Market 3,electronics,FR
+723,Iron Market 3,transport,IE
+724,North Market 3,utilities,IE
+725,Silver Market 3,health,SE
+726,Copper Market 3,clothing,GB
+727,Amber Market 3,clothing,FI
+728,Cedar Market 3,restaurants,CA
+729,Falcon Market 3,restaurants,FI
+730,Harbor Market 3,health,NO
+731,Juniper Market 3,travel,DE
+732,Kestrel Market 3,entertainment,FR
+733,Larkin Market 3,restaurants,DK
+734,Maple Market 3,transport,US
+735,Onyx Market 3,restaurants,CA
+736,Quarry Market 3,entertainment,IT
+737,Rowan Market 3,transport,FI
+738,Summit Market 3,entertainment,US
+739,Thistle Market 3,electronics,CA
+740,Vector Market 3,travel,NZ
+741,Blue Supply 3,home,NL
+742,Green Supply 3,electronics,GB
+743,Iron Supply 3,restaurants,FR
+744,North Supply 3,home,NL
+745,Silver Supply 3,travel,IT
+746,Copper Supply 3,groceries,IT
+747,Amber Supply 3,transport,CA
+748,Cedar Supply 3,groceries,FR
+749,Falcon Supply 3,health,SI
+750,Harbor Supply 3,utilities,PT
+751,Juniper Supply 3,restaurants,NZ
+752,Kestrel Supply 3,restaurants,SI
+753,Larkin Supply 3,entertainment,CA
+754,Maple Supply 3,health,FR
+755,Onyx Supply 3,entertainment,GB
+756,Quarry Supply 3,travel,FR
+757,Rowan Supply 3,clothing,NZ
+758,Summit Supply 3,entertainment,FR
+759,Thistle Supply 3,entertainment,US
+760,Vector Supply 3,electronics,GB
+761,Blue Foods 3,clothing,FR
+762,Green Foods 3,home,DE
+763,Iron Foods 3,entertainment,PT
+764,North Foods 3,health,NL
+765,Silver Foods 3,clothing,US
+766,Copper Foods 3,transport,ES
+767,Amber Foods 3,health,US
+768,Cedar Foods 3,groceries,SI
+769,Falcon Foods 3,utilities,DE
+770,Harbor Foods 3,electronics,DK
+771,Juniper Foods 3,clothing,DK
+772,Kestrel Foods 3,transport,IT
+773,Larkin Foods 3,groceries,CA
+774,Maple Foods 3,groceries,IE
+775,Onyx Foods 3,groceries,US
+776,Quarry Foods 3,restaurants,SE
+777,Rowan Foods 3,groceries,PT
+778,Summit Foods 3,electronics,ES
+779,Thistle Foods 3,travel,US
+780,Vector Foods 3,utilities,GB
+781,Blue Transit 3,entertainment,DK
+782,Green Transit 3,groceries,AU
+783,Iron Transit 3,home,FR
+784,North Transit 3,utilities,SE
+785,Silver Transit 3,utilities,PT
+786,Copper Transit 3,groceries,CA
+787,Amber Transit 3,clothing,DE
+788,Cedar Transit 3,groceries,US
+789,Falcon Transit 3,electronics,US
+790,Harbor Transit 3,home,PT
+791,Juniper Transit 3,travel,AU
+792,Kestrel Transit 3,restaurants,FR
+793,Larkin Transit 3,transport,GB
+794,Maple Transit 3,utilities,US
+795,Onyx Transit 3,utilities,US
+796,Quarry Transit 3,groceries,FR
+797,Rowan Transit 3,transport,IE
+798,Summit Transit 3,health,CA
+799,Thistle Transit 3,clothing,GB
+800,Vector Transit 3,transport,US
