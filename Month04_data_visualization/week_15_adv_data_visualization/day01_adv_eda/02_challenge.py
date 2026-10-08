@@ -35,7 +35,6 @@ df = pd.DataFrame({
 })
 
 
-
 # Task 1 — Sales Distribution
 
 sns.histplot(df["Sales"],kde=True)
@@ -63,9 +62,6 @@ region_product_sales = df.groupby(
 )["Sales"].sum()
 
 print(region_product_sales)
-
-
-
 
 # Task 4 — Visualizations
 
